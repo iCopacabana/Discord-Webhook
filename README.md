@@ -21,4 +21,4 @@ simple and easy to use Discord Webhook Libray, just add the cs file into your pr
 
 > need help making a discord webhook? vv
 
-![hi]https://i.imgur.com/Cr4zMWs.png
+![hi](https://i.imgur.com/Cr4zMWs.png)
