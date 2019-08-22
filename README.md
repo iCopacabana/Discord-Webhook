@@ -17,3 +17,8 @@ simple and easy to use Discord Webhook Libray, just add the cs file into your pr
 
  sendRequest("webhook url here!", "message!"); 
 ```
+
+
+> need help making a discord webhook? vv
+
+![hi]https://i.imgur.com/Cr4zMWs.png
