@@ -4,17 +4,16 @@ simple and easy to use Discord Webhook Libray, just add the cs file into your pr
 
 > usage: 
 ```csharp
-        public static void sendRequest(string URL, string msg)
-        {
-            using (DiscordWeb dcWeb = new DiscordWeb())
-            {
-                dcWeb.ProfilePicture = "picture url!";
-                dcWeb.UserName = "bot name!";
-                dcWeb.WebHook = URL;
-                dcWeb.SendMessage(msg);
-            }
-        }
+   public static void sendRequest(string URL, string msg)
+   {
+     using (DiscordWeb dcWeb = new DiscordWeb())
+      {
+         dcWeb.ProfilePicture = "picture url!";
+         dcWeb.UserName = "bot name!";
+         dcWeb.WebHook = URL;
+         dcWeb.SendMessage(msg);
+      }
+   }
 
-
- sendRequest("webhook url here!", "hi!"); 
+ sendRequest("webhook url here!", "message!"); 
 ```
