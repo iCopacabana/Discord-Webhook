@@ -1,8 +1,8 @@
 # C# Discord Webhook
 
-simple and easy to use Discord Webhook Libray, just add the cs file into your project!
+Simple y fácil de usar; librería de Discord Webhook. Solo agrega el archivo .cs a tu proyecto.
 
-> usage: 
+> USO: 
 ```csharp
    public static void sendRequest(string URL, string msg)
    {
